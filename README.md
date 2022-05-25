@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @mallikarjunyenagan
-- 👀 I’m interested in coding in Java, Javascript
-- 🌱 I’m currently learning AWS, ReactJs
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me mallikarjunyenagandhula@gmail.com
-
-
 Hi 👋 My name is Mallikarjun Yenagandhula
 =========================================
 
@@ -35,7 +28,7 @@ I have over 4 years of professional experience. I have experience working in cor
                                 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
                     </p>
                     
-                  ### Socials
+            
                   
                   
                 <p align="left">
