@@ -9,7 +9,8 @@ I have over 4 years of professional experience. I have experience working in cor
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [mallikarjunyenagandhula@gmail.com](mailto:mallikarjunyenagandhula@gmail.com)
 *   🧠  I'm learning AWS, Apache kafka, Kuberbetes, CI&CD
-*   🤝  I'm open to collaborating on open projects### Skills<p align="left">
+*   🤝  I'm open to collaborating on open source projects
+<p align="left">
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
                                 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
