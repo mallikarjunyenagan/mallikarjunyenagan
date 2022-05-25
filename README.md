@@ -1,7 +1,7 @@
 Hi 👋 My name is Mallikarjun Yenagandhula
 =========================================
 
-Full-stack Developer
+Full-Stack Developer
 -------------------
 
 I have over 4 years of professional experience. I have experience working in corporate and startup environments. Performed all roles in development including front-end, back-end, deployment/server management, and interfacing with business. A highly adaptable, passionate learner with a strong work ethic.
